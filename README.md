@@ -6,4 +6,10 @@ Computer Engineering student
 
 I'm interested in programming, Linux, networking, and cybersecurity.
 
-Currently learning, building, and experimenting with different things in the world of technology.
+## Currently
+
+- 🐍 Building projects with Python
+- 🌐 Learning Networking & Network Security
+- 🐧 Working with Linux
+- 🔐 Exploring Cybersecurity
+- 🛠️ Building small projects
