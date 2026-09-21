@@ -2,19 +2,15 @@
 
 <table>
 <tr>
-<td align="center" width="900" bgcolor="#0B1F33">
-
-<br><br>
-
-<font color="#FFFFFF" size="6"><b>Ali Mahdavi</b></font>
+<td align="center" width="900">
 
 <br>
 
-<font color="#8FAFCB" size="2">
-PYTHON&nbsp;&nbsp;•&nbsp;&nbsp;LINUX&nbsp;&nbsp;•&nbsp;&nbsp;NETWORKING&nbsp;&nbsp;•&nbsp;&nbsp;SECURITY
-</font>
+# **Ali Mahdavi**
 
-<br><br><br>
+<sub>PYTHON&nbsp;&nbsp;•&nbsp;&nbsp;LINUX&nbsp;&nbsp;•&nbsp;&nbsp;NETWORKING&nbsp;&nbsp;•&nbsp;&nbsp;SECURITY</sub>
+
+<br><br>
 
 </td>
 </tr>
