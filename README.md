@@ -32,3 +32,12 @@ languages:
 
   <img src="https://img.shields.io/badge/TELEGRAM%20BOT-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
 </p>
+
+<p align="center">
+  <a href="mailto:84a.mahdaviniya@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/AliMahdavii">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
