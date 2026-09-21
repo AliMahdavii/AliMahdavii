@@ -14,7 +14,10 @@ name: Ali Mahdavi
 role: Computer Engineering Student
 location: Iran, Tehran
 focus: Networking & security
-learning_now: Network Security . Linux . Python
+currently:
+  - Network Security
+  - Linux
+  - Python
 languages:
   - Python
   - C++
@@ -34,6 +37,8 @@ languages:
 
   <img src="https://img.shields.io/badge/TELEGRAM%20BOT-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
 </p>
+
+## 📫 Let’s Connect
 
 <p align="center">
   <a href="mailto:84a.mahdaviniya@gmail.com">
