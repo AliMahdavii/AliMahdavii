@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="YOUR_HEADER_URL" width="100%" />
-
 </div>
 
 <br>
