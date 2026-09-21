@@ -1,6 +1,6 @@
 <div align="center"> 
   
-# Ali Mahdavi
+# Ali
 PYTHON • LINUX • NETWORKING • SECURITY
   
 ### Computer Engineering Student 🎓 
