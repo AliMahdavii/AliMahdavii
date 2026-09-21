@@ -4,7 +4,7 @@
   
   ### Computer Engineering Student 🎓 
   
-  </div>
+</div>
 
 ### 🧭 About Me
 
