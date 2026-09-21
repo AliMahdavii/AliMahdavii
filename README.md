@@ -16,8 +16,10 @@ location: Iran, Tehran
 focus: Networking & security
 learning_now: Network Security . Linux . Python
 languages:
-  - Python . C++ . Java
-  - Bash / Linux administration
+  - Python
+  - C++
+  - Java
+  - Bash
 ```
 
 ## 🛠️ Tech Stack
