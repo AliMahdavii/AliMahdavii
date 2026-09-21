@@ -1,7 +1,28 @@
 <div align="center">
 
-# Ali Mahdavi 
-PYTHON  •  LINUX  •  NETWORKING  •  SECURITY 
+<table>
+<tr>
+<td align="center" width="900" bgcolor="#0B1F33">
+
+<br><br>
+
+<font color="#FFFFFF" size="6"><b>Ali Mahdavi</b></font>
+
+<br>
+
+<font color="#8FAFCB" size="2">
+PYTHON&nbsp;&nbsp;•&nbsp;&nbsp;LINUX&nbsp;&nbsp;•&nbsp;&nbsp;NETWORKING&nbsp;&nbsp;•&nbsp;&nbsp;SECURITY
+</font>
+
+<br><br><br>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
 
 ### Computer Engineering Student 🎓
 
