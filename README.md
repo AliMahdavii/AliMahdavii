@@ -1,28 +1,10 @@
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="900">
-
-<br>
-
-# **Ali Mahdavi**
-
-<sub>PYTHON&nbsp;&nbsp;•&nbsp;&nbsp;LINUX&nbsp;&nbsp;•&nbsp;&nbsp;NETWORKING&nbsp;&nbsp;•&nbsp;&nbsp;SECURITY</sub>
-
-<br><br>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<div align="center">
-
-### Computer Engineering Student 🎓
-
-</div>
+<div align="center"> 
+  # Ali Mahdavi
+  PYTHON • LINUX • NETWORKING • SECURITY
+  
+  ### Computer Engineering Student 🎓 
+  
+  </div>
 
 ### 🧭 About Me
 
