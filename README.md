@@ -1,15 +1,8 @@
 <div align="center">
 
-</div>
+# Ali Mahdavi 
+PYTHON  •  LINUX  •  NETWORKING  •  SECURITY 
 
-<br>
-
-<div align="center">
-
-# Hi, I'm Ali 👋
-
-### Computer Engineering Student
-
-`Python` · `Linux` · `Networking` · `Cybersecurity`
+### Computer Engineering Student 🎓
 
 </div>
