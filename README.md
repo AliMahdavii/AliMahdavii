@@ -51,3 +51,10 @@ languages:
 </p>
 
 ---
+
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AliMahdavii/AliMahdavii/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+</p>
