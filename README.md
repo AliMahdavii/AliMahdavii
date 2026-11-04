@@ -1,54 +1,65 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=%24+whoami;Ali+Mahdavi;Network+%26+Security" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff9c&height=180&section=header&text=Ali%20Mahdavi&fontSize=48&fontColor=ffffff&fontAlignY=38" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=500&lines=%24+whoami;Computer+Engineering+Student;Network+%26+Security+Enthusiast" alt="typing" />
+
 </div>
 
-### 🧭 About Me
+---
 
-```yaml
-name: Ali Mahdavi
-role: Computer Engineering Student
-location: Iran, Tehran
-focus: Networking & security
-currently:
-  - Network Security
-  - Linux
-  - Python
-languages:
-  - Python
-  - C++
-  - Java
-  - Bash
+### 👨‍💻 About
+
+```text
+┌──(ali㉿linux)-[~]
+└─$ cat about.txt
+Name     : Ali Mahdavi
+Location : Tehran, Iran
+Focus    : Network Security
+Learning : Linux · Python · Security
 ```
 
-### 🛠️ Tech Stack
+---
+
+### 🛠️ Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <br>
-  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/BASH-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/TELEGRAM%20BOT-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=00ff9c" />
+  <img src="https://img.shields.io/badge/Kali-000?style=for-the-badge&logo=kalilinux&logoColor=00ff9c" />
+  <img src="https://img.shields.io/badge/Bash-000?style=for-the-badge&logo=gnubash&logoColor=00ff9c" />
+  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=00ff9c" />
+  <img src="https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus&logoColor=00ff9c" />
+  <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=00ff9c" />
+  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=00ff9c" />
+  <img src="https://img.shields.io/badge/Wireshark-000?style=for-the-badge&logo=wireshark&logoColor=00ff9c" />
 </p>
 
 ---
 
-### 📫 Let's Connect
+### 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AliMahdavii&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliMahdavii&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</p>
+
+---
+
+### 🐍 Contributions
+
+<img src="https://raw.githubusercontent.com/AliMahdavii/AliMahdavii/output/github-contribution-grid-snake.svg" alt="snake" width="100%" />
+
+---
+
+### 📫 Contact
 
 <p align="center">
   <a href="mailto:84a.mahdaviniya@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=00ff9c" />
   </a>
   <a href="https://github.com/AliMahdavii">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=00ff9c" />
   </a>
 </p>
 
----
-
-
-## 🐍 Contribution Snake
-
-
-  ![snake_gif](https://github.com/AliMahdavii/AliMahdavii/blob/output/github-contribution-grid-snake.svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff9c&height=100&section=footer" width="100%"/>
