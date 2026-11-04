@@ -11,10 +11,11 @@
 ### 👨‍💻 About
 
 ```text
-Name     : Ali Mahdavi
-Location : Tehran, Iran
-Main     : Python
-Learning : Networking · Linux · Security
+Name      : Ali Mahdavi
+Location  : Tehran, Iran
+Main      : Python
+Languages : Python · C++ · Java
+Learning  : Networking · Linux · Security
 ```
 
 ---
@@ -24,6 +25,8 @@ Learning : Networking · Linux · Security
 <p align="center">
   <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=00ff9c" />
   <img src="https://img.shields.io/badge/Telegram_Bot-000?style=for-the-badge&logo=telegram&logoColor=00ff9c" />
+  <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=00ff9c" />
+  <img src="https://img.shields.io/badge/Bash-000?style=for-the-badge&logo=gnubash&logoColor=00ff9c" />
   <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=00ff9c" />
 </p>
 
@@ -31,30 +34,20 @@ Learning : Networking · Linux · Security
 
 ### 🚀 Projects
 
-<p align="center">
-  <a href="https://github.com/AliMahdavii/Network_scanner">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AliMahdavii&repo=Network_scanner&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/AliMahdavii/LinguaAI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AliMahdavii&repo=LinguaAI&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/AliMahdavii/Text2VoiceBot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AliMahdavii&repo=Text2VoiceBot&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/AliMahdavii/AnonymousMessageBot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AliMahdavii&repo=AnonymousMessageBot&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+| Project | Description |
+|---------|-------------|
+| [**Network_scanner**](https://github.com/AliMahdavii/Network_scanner) | Multithreaded network scanner: host discovery, port scan, TLS analysis |
+| [**LinguaAI**](https://github.com/AliMahdavii/LinguaAI) | AI-powered Telegram translation bot |
+| [**Text2VoiceBot**](https://github.com/AliMahdavii/Text2VoiceBot) | Multilingual Telegram text-to-speech bot |
+| [**AnonymousMessageBot**](https://github.com/AliMahdavii/AnonymousMessageBot) | Telegram bot for anonymous messages |
 
 ---
 
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AliMahdavii&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliMahdavii&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://img.shields.io/github/followers/AliMahdavii?style=for-the-badge&labelColor=000&color=00ff9c" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAliMahdavii&query=%24.public_repos&label=Repos&style=for-the-badge&labelColor=000&color=00ff9c" />
 </p>
 
 ---
