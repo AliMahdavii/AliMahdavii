@@ -43,13 +43,6 @@ Learning  : Networking · Linux · Security
 
 ---
 
-### 📊 Stats
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/AliMahdavii?style=for-the-badge&labelColor=000&color=00ff9c" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAliMahdavii&query=%24.public_repos&label=Repos&style=for-the-badge&labelColor=000&color=00ff9c" />
-</p>
-
 ---
 
 ### 🐍 Contributions
