@@ -25,13 +25,11 @@ Learning : Linux · Python · Security
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=00ff9c" />
-  <img src="https://img.shields.io/badge/Kali-000?style=for-the-badge&logo=kalilinux&logoColor=00ff9c" />
   <img src="https://img.shields.io/badge/Bash-000?style=for-the-badge&logo=gnubash&logoColor=00ff9c" />
   <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=00ff9c" />
   <img src="https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus&logoColor=00ff9c" />
   <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=00ff9c" />
   <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=00ff9c" />
-  <img src="https://img.shields.io/badge/Wireshark-000?style=for-the-badge&logo=wireshark&logoColor=00ff9c" />
 </p>
 
 ---
