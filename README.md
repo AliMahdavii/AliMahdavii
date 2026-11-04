@@ -1,10 +1,5 @@
-<div align="center"> 
-  
-# Ali
-PYTHON • LINUX • NETWORKING • SECURITY
-  
-### Computer Engineering Student 🎓 
-  
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=%24+whoami;Ali+Mahdavi;Network+%26+Security" alt="Typing SVG" />
 </div>
 
 ### 🧭 About Me
