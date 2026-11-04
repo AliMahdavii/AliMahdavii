@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff9c&height=180&section=header&text=Ali%20Mahdavi&fontSize=48&fontColor=ffffff&fontAlignY=38" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=500&lines=%24+whoami;Computer+Engineering+Student;Network+%26+Security+Enthusiast" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Python+Developer;Learning+Networking" alt="typing" />
 
 </div>
 
@@ -11,12 +11,10 @@
 ### 👨‍💻 About
 
 ```text
-┌──(ali㉿linux)-[~]
-└─$ cat about.txt
 Name     : Ali Mahdavi
 Location : Tehran, Iran
-Focus    : Network Security
-Learning : Linux · Python · Security
+Main     : Python
+Learning : Networking · Linux · Security
 ```
 
 ---
@@ -24,12 +22,30 @@ Learning : Linux · Python · Security
 ### 🛠️ Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=00ff9c" />
-  <img src="https://img.shields.io/badge/Bash-000?style=for-the-badge&logo=gnubash&logoColor=00ff9c" />
   <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=00ff9c" />
-  <img src="https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus&logoColor=00ff9c" />
-  <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=00ff9c" />
+  <img src="https://img.shields.io/badge/Telegram_Bot-000?style=for-the-badge&logo=telegram&logoColor=00ff9c" />
   <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=00ff9c" />
+</p>
+
+---
+
+### 🚀 Projects
+
+<p align="center">
+  <a href="https://github.com/AliMahdavii/Network_scanner">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AliMahdavii&repo=Network_scanner&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/AliMahdavii/LinguaAI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AliMahdavii&repo=LinguaAI&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/AliMahdavii/Text2VoiceBot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AliMahdavii&repo=Text2VoiceBot&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/AliMahdavii/AnonymousMessageBot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AliMahdavii&repo=AnonymousMessageBot&theme=tokyonight&hide_border=true" />
+  </a>
 </p>
 
 ---
